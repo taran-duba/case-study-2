@@ -4,3 +4,9 @@
     background-color: grey;
     border-radius: 20px;
 }
+.footer {
+    background-color: red;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+}
